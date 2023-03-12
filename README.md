@@ -149,3 +149,26 @@ You are required to submit BOTH of the following for review:
 * A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
+## What I Learned
+Extending on from the last 3 weeks which included; Insomnia, Heroku, Node.js, MySQL we built upon by by learning about Object-Relational Mapping (ORM). We touched up on Models, CRUD, Async, Hooks, 1to1 and 1toMany, Literals all while using Sequelize (the ORM) just to name a few subjects. 
+
+## What Problems Did we Solve?
+We started with a a good portion of starter code this week which was nice (on the back of last weeks crazy full stack development).  
+
+# Installation
+N/A - if you do clone this repo to your machine please do not forget to create your own .env file.
+
+# Usage
+To view this challenge you can view the walk through video here: https://intense-hollows-44171.herokuapp.com/
+<br/>Or check out my repository here: https://github.com/BenArmstrong81/-Ben-Armstrong-Note-Taker-UsingExpress.js
+
+The following image's shows the working application:
+
+![My Web Development Portfolio webpage includes a navigation bar, a professional head shot image, multiple links (placeholders at this stage) to projects completed within the UniSA Full Stack Web Development course, and working links to contact me - even download an updated resume.](./Assets/BenArmstrong-WorkingNoteTaker.png)
+
+# Credits
+With special thanks to the UniSA Full Stack Web Development Class.
+
+# License
+
+Please refer to the LICENSE in the repo.
