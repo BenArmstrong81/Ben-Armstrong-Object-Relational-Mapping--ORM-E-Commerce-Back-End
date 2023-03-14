@@ -168,12 +168,8 @@ We started with a a good portion of starter code this week which was nice (on th
 N/A - if you do clone this repo to your machine please do not forget to create your own .env file.
 
 # Usage
-To view this challenge you can view the walk through video here: https://intense-hollows-44171.herokuapp.com/
-<br/>Or check out my repository here: https://github.com/BenArmstrong81/-Ben-Armstrong-Note-Taker-UsingExpress.js
-
-The following image's shows the working application:
-
-![My Web Development Portfolio webpage includes a navigation bar, a professional head shot image, multiple links (placeholders at this stage) to projects completed within the UniSA Full Stack Web Development course, and working links to contact me - even download an updated resume.](./Assets/BenArmstrong-WorkingNoteTaker.png)
+To view this challenge you can view the walk through video here: [Click here for walk through video](https://drive.google.com/file/d/19Dkn7V-6RoXZfybpB9KzjTCtUy1r6q-3/view?usp=sharing)
+<br/>Or check out my repository here: https://github.com/BenArmstrong81/Ben-Armstrong-Object-Relational-Mapping--ORM-E-Commerce-Back-End
 
 # Credits
 With special thanks to the UniSA Full Stack Web Development Class.
